@@ -1,5 +1,5 @@
 {
-  "name": "@toast-ui/react-image-editor",
+  "name": "anhdang094-react-image-editor",
   "version": "3.12.0",
   "description": "TOAST UI Image-Editor for React",
   "main": "dist/toastui-react-image-editor.js",
@@ -11,7 +11,7 @@
     "build:dev": "webpack --mode development",
     "build": "webpack --mode production",
     "serve": "webpack-dev-server",
-    "storybook": "start-storybook -s ./node_modules/tui-image-editor/dist/svg,.storybook -p 6006",
+    "storybook": "start-storybook -s ./node_modules/anhdang094-tui-image-editor/dist/svg,.storybook -p 6006",
     "build-storybook": "build-storybook"
   },
   "homepage": "https://github.com/nhn/tui.image-editor",
@@ -53,6 +53,6 @@
   },
   "dependencies": {
     "fabric": "^4.2.0",
-    "tui-image-editor": "^3.12.0"
+    "anhdang094-tui-image-editor": "^3.12.0"
   }
 }

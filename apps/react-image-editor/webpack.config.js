@@ -8,9 +8,9 @@ const config = {
     libraryTarget: 'commonjs2',
   },
   externals: {
-    'tui-image-editor': {
-      commonjs: 'tui-image-editor',
-      commonjs2: 'tui-image-editor',
+    'anhdang094-tui-image-editor': {
+      commonjs: 'anhdang094-tui-image-editor',
+      commonjs2: 'anhdang094-tui-image-editor',
     },
     react: {
       commonjs: 'react',
